@@ -1,0 +1,33 @@
+# For Social Media Accounts put the username ONLY
+
+- name: Bashayer Mohammed
+  title: Marketing Coordinator
+  team: nontech
+  term: "2021"
+  picture:
+  bio: What we don't know is far more than what we think we know
+  website:
+  github:
+  linkedin: bashayer-m-4391b8173
+  facebook:
+
+- name: Marwa Ghaleb
+  title: Public Relations Coordinator
+  team: nontech
+  term: "2021"
+  picture: nontech/marwa_ghaleb.webp
+  bio:
+  website:
+  github: marwaghaleb
+  linkedin:
+  facebook:
+
+- name: Najm Addin Fateh Al-Shaebi
+  title: Designer
+  team: nontech
+  term: "2021"
+  picture: nontech/najm_alshaebi.webp
+  bio:
+  website:
+  github:
+  linkedin:
