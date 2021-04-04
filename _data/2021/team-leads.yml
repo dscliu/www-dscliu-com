@@ -1,0 +1,50 @@
+# For Social Media Accounts put the username ONLY
+
+- name: Safa Moqbel
+  title: DSC Lead
+  team: Leads
+  term: "2021"
+  picture: leads/safa_moqbel.webp
+  bio:
+  website:
+  github:
+  linkedin:
+  twitter:
+  instagram:
+  facebook:
+
+
+- name: Ahmad Hassan Alrai
+  title: Co-lead
+  team: Leads
+  term: "2021"
+  picture: leads/ahmed_alrai.webp
+  bio:
+  website:
+  github:
+  linkedin:
+  twitter:
+  instagram:
+  facebook:
+
+- name: Shehab Zuhra
+  title: Technical Team Lead
+  team: Leads
+  term: "2021"
+  picture: leads/shehab_zuhra.webp
+  bio:
+  website:
+  github:
+  linkedin:
+  facebook:
+
+- name: Khaldoon T. Mutahar
+  title: Non-Technical Team Lead
+  team: Leads
+  term: "2021"
+  picture: leads/khaldoon_mutahar.webp
+  bio:
+  website: https://www.mutahar.me/
+  github: kmutahar
+  linkedin: kmutahar
+  facebook:
