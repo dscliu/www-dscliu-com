@@ -1,0 +1,72 @@
+---
+layout: default
+title: DSC - Lebanese Int. University
+permalink: /
+description:
+term: "2021"
+---
+
+<!--Slider-->
+<section id="slider">
+    <div id="headerSlider" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#headerSlider" data-slide-to="0" class="active"></li>
+            <li data-target="#headerSlider" data-slide-to="1"></li>
+            <li data-target="#headerSlider" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+            {%- for slider in site.data.carousel-slider-home %}
+            <div class="carousel-item {{ slider.class }}">
+                <img src="{{ slider.image }}" class="d-block img-fluid" alt="{{ slider.alt }}">
+                {% if slider.caption %}
+                <div class="carousel-caption">
+                    <h5>{{ slider.caption }}</h5>
+                </div>
+                {% endif %}
+            </div>
+            {% endfor %}
+        </div>
+        <a class="carousel-control-prev" href="#headerSlider" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#headerSlider" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+</section>
+
+<hr>
+
+<!-- Our Services -->
+<section id="services">
+    <div class="container">
+        <h1> With DSC</h1>
+        <div class="row services">
+            {% for item in site.data.services %}
+            <div class="col-md-3 text-center">
+                <div class="icon"><i class="{{ item.icon }}"></i></div>
+                <h3>{{ item.item }}</h3>
+                <p>{{ item.text }}</p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<!-- DSCs -->
+<section>
+    <div class="card text-center">
+        <div class="card-header">
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">Developer Student Clubs worldwide</h5>
+            <p class="card-text">Find a DSC chapter near you. Visit each DSC's page to find more information about the
+                group, events, and sign-up details.</p>
+            <a href="https://dsc.community.dev/chapters/" class="btn btn-primary">Find a DSC near you</a>
+        </div>
+        <div class="card-footer text-muted">
+        </div>
+    </div>
+</section>
