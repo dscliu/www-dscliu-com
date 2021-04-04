@@ -1,0 +1,34 @@
+# For Social Media Accounts put the username ONLY
+
+- name: Khalifah Al-sharabi
+  title: Technical support
+  team: tech
+  term: "2021"
+  picture: tech/khalifah_alsharabi.webp
+  bio:
+  website:
+  github:
+  linkedin:
+  facebook:
+
+- name: Maizer Nesredin
+  title: Programmer
+  team: tech
+  term: "2021"
+  picture: tech/maizer_nesredin.webp
+  bio:
+  website:
+  github:
+  linkedin: maizer-ahmed-a38385199
+  facebook: maizer17
+
+- name: Mohammed Alhaddad
+  title:
+  team: tech
+  term: "2021"
+  picture: tech/mohammed_alhaddad.webp
+  bio:
+  website:
+  github:
+  linkedin: mohammed-alhaddad-860548201
+  facebook: mohamedhassn1999
