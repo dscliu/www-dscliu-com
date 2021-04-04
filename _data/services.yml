@@ -1,0 +1,15 @@
+- item: Connect
+  icon: fas fa-user-friends
+  text: Meet other students on campus interested in developer technologies. All are welcome, including those with diverse backgrounds and different majors.
+
+- item: Learn
+  icon: fas fa-code
+  text: Learn about a wide range of technical topics where new skills are gained through hands-on workshops, in-person training and project building activities.
+
+- item: Benefit
+  icon: fas fa-calendar-week
+  text: Explore new technologies and boost your knowledge with our speaker sessions and events.Advance your skills, career and network.
+
+- item: Grow
+  icon: fas fa-briefcase
+  text: Apply your new learnings and connections to build great solutions for local problems. Give back to your community by helping others learn as well.

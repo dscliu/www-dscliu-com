@@ -1,0 +1,17 @@
+# The class should be blank excpet for the first image which should be active
+# this is so that the slider works perfectly
+
+- image: assets/carousel-slider/computers-2.webp
+  alt: "..."
+  caption: Happy coding
+  class: active
+
+- image: assets/carousel-slider/banner2.webp
+  alt: "..."
+  caption: connect and learn
+  class: ""
+
+- image: assets/carousel-slider/banner5.webp
+  alt: "..."
+  caption: together we develop and find solutions
+  class: ""
