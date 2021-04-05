@@ -63,3 +63,4 @@ exclude:
 
 include:
   - _pages
+  - _redirects
