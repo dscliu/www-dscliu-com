@@ -4,10 +4,7 @@ author: # Is the DSC Chapter
   email: dscliu.ye@gmail.com
   location: Sanaa - Yemen
   phone:
-description: > # this means to ignore newlines until "current_term:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: The offical website for the Lebanese International University Developer Student Club.
 current_term: "2021" # should be the last 2 digits of the years ex. 2020-2021 > "2021" ; 2021-2022 > "2122"
 site_logo: assets/dscliu-logo.png
 maintainer: 'Site Maintained by <a href="https://www.mutahar.me">Khaldoon Mutahar</a>'
