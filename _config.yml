@@ -18,7 +18,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # Navigation bar links
 navbar-links:
   Home: "/"
-  Our Team: "2021/team"
+  Our Team: "2021/team/"
   About DSC: "https://developers.google.com/community/dsc"
   Join Us: "https://dsc.community.dev/lebanese-international-university/"
 
