@@ -24,7 +24,7 @@ navbar-links:
 
 # jekyll-them-dscliu date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-jekyll-them-dscliu:
+jekyll-theme-dscliu:
   date_format: "%b %-d, %Y"
 
 # Use the Username not the full URL path
