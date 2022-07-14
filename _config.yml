@@ -1,13 +1,13 @@
 title:  DSC LIU - Yemen
 author: # Is the DSC Chapter
   name:  DSC - Lebanese International University
-  email: dscliu.ye@gmail.com
+  email: gdscliu@gmail.com
   location: Sanaa - Yemen
   phone:
 description: The offical website for the Lebanese International University Developer Student Club.
 current_term: "2021" # should be the last 2 digits of the years ex. 2020-2021 > "2021" ; 2021-2022 > "2122"
 site_logo: assets/dscliu-logo.png
-maintainer: 'Site Maintained by <a href="https://www.mutahar.me">Khaldoon Mutahar</a>'
+maintainer: 'Site Maintained by <a href="https://www.mutahar.me/">Khaldoon Mutahar</a>'
 timezone: Etc/GMT
 
 url: "https://www.gdscliu.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -19,8 +19,8 @@ show_excerpts: false # set to true to show excerpts on the homepage
 navbar-links:
   Home: "/"
   Our Team: "2021/team/"
-  About DSC: "https://developers.google.com/community/dsc"
-  Join Us: "https://dsc.community.dev/lebanese-international-university/"
+  About DSC: "https://developers.google.com/community/gdsc"
+  Join Us: "https://gdsc.community.dev/lebanese-international-university-sanaa/"
 
 # jekyll-them-dscliu date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -29,10 +29,10 @@ jekyll-theme-dscliu:
 
 # Use the Username not the full URL path
 social_links:
-  twitter: DSCLIU
-  github: dscliu
-  facebook: dscliu.ye
-  instagram: DSCLIU
+  twitter: gdscliu
+  github: gdscliu
+  facebook: gdscliu
+  instagram: gdscliu
   youtube: UCs4JhdOCxlMfhI7VMhWmEHw
   youtube_channel:
   youtube_channel_name:
